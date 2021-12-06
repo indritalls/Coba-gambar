@@ -1,0 +1,4 @@
+line-bot-sdk
+flask
+requests
+werkzeug>=0.15.4
